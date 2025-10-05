@@ -5,7 +5,7 @@ build:
 	chmod +x task-cli
 
 install: build
-	sudo ln -s $(PWD)/task-cli /usr/local/bin/task-cli
+	sudo ln -sf $(PWD)/task-cli /usr/local/bin/task-cli
 
 clean:
 	mvn clean
