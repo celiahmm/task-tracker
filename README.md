@@ -1,6 +1,6 @@
 <div align="center">
 
-# Task Tracker CLI
+# 📋 Task Tracker CLI
 
 #### A simple command-line tool to track and manage your tasks.
 
@@ -8,17 +8,17 @@
 
 ---
 
-## Features
+## ✨ Features
 
 - Add, update, and delete tasks
 - Mark tasks as `todo`, `in-progress`, or `done`
 - List all tasks or filter by status
 - Tasks stored in JSON format
-- **Zero external dependencies** - uses only native Java
+- Zero external dependencies
 
 ---
 
-## Technologies
+## ⚙️ Technologies
 
 - **Java 17+**
 - **Maven** - Build automation
@@ -26,14 +26,7 @@
 
 ---
 
-## Requirements
-
-- Java 17+ or higher
-- Maven 3.6+
-
----
-
-## Installation
+## 🧩 Installation
 
 **1. Clone the repository:**
 
@@ -50,7 +43,7 @@ make build
 
 ---
 
-## Global Installation (Optional)
+## 🌐 Global Installation (optional)
 
 To use `task-cli` from anywhere without `./`:
 
@@ -68,7 +61,7 @@ make uninstall
 
 ---
 
-## Usage
+## 💻 Usage
 
 ```bash
 # Add a task
@@ -93,7 +86,7 @@ make uninstall
 
 ---
 
-## Commands
+## 🧾 Commands
 
 - `make build` - Build the project
 - `make install` - Install globally
@@ -102,4 +95,5 @@ make uninstall
 
 ---
 
-_Part of the [roadmap.sh Task Tracker](https://roadmap.sh/projects/task-tracker) challenge._
+🔗 _Part of the [roadmap.sh Task Tracker](https://roadmap.sh/projects/task-tracker) challenge._
+
