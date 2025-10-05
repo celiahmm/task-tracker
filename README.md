@@ -31,8 +31,8 @@
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/celiahmm/Task-Tracker2.git
-cd Task-Tracker2
+git clone https://github.com/celiahmm/task-tracker.git
+cd task-tracker
 ```
 
 **2. Build the project:**
