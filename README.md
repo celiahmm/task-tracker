@@ -43,24 +43,6 @@ make build
 
 ---
 
-## 🌐 Global Installation (optional)
-
-To use `task-cli` from anywhere without `./`:
-
-```bash
-make install
-```
-
-Then simply use `task-cli` instead of `./task-cli`.
-
-To uninstall:
-
-```bash
-make uninstall
-```
-
----
-
 ## 💻 Usage
 
 ```bash
@@ -83,15 +65,6 @@ make uninstall
 ./task-cli list todo
 ./task-cli list in-progress
 ```
-
----
-
-## 🧾 Commands
-
-- `make build` - Build the project
-- `make install` - Install globally
-- `make clean` - Clean build files
-- `make help` - Show help
 
 ---
 
